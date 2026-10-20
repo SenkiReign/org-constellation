@@ -3,7 +3,9 @@
 Turns org notes into stars, and the links between them draw the constellations. Pick a star and see what links to it, what it links to, and what you mentioned in the journal.
 Works with a folder of `.org` files or a single `.org` file.
 
-<img width="1919" height="1079" alt="2026-10-20_08-14" src="https://github.com/user-attachments/assets/7ed28c65-a4a6-4504-90dd-dad894bb17a4" />
+
+
+https://github.com/user-attachments/assets/8c39501d-a839-4f6b-9db9-d86b279926cd
 
 
 
