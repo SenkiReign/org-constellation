@@ -2,7 +2,7 @@
 
 ;; Author: Senki R.  
 ;; URL: https://github.com/you/constellation
-;; Version: 1.0.1
+;; Version: 1.0.4
 ;; Package-Requires: ((emacs "27.1"))
 ;;; Commentary:
 ;;
