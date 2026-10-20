@@ -1,7 +1,6 @@
 ;;; constellation.el --- Browse linked Org notes as a list, a star chart and a reader -*- lexical-binding: t; -*-
 
 ;; Author: Senki R.  
-;; URL: https://github.com/you/constellation
 ;; Version: 1.0.4
 ;; Package-Requires: ((emacs "27.1"))
 ;;; Commentary:
@@ -13,19 +12,6 @@
 ;;                  (left = links to it, right = links from it,
 ;;                   top/bottom = mentioned together in your journal)
 ;;          bottom: the note itself, with "linked from" and journal mentions
-;;
-;; Setup:
-;;
-;;   (setq constellation-sources '("~/org"))   ; files and/or directories
-;;   M-x constellation
-;;
-;; A note is every .org file when you point it at several files, or every
-;; top-level heading when you point it at one file (`constellation-node-kind').
-;; Files named like 2026-10-19.org or 20261019.org are a journal: they feed
-;; dates and "mentioned together".  So do headings that start with a date.
-;;
-;; Links understood: [[Title]] [[*Heading]] [[file:x.org]] [[id:UUID]] and
-;; external links.  A [[Title]] without a note shows as a dim "ghost" note.
 ;;
 ;;; Code:
 
