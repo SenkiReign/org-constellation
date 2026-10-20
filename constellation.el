@@ -3,16 +3,6 @@
 ;; Author: Senki R.  
 ;; Version: 1.0.4
 ;; Package-Requires: ((emacs "27.1"))
-;;; Commentary:
-;;
-;; Browse a folder of Org notes (or one big Org file):
-;;
-;;   LEFT   list of notes (filter, sort by recent / most linked / A-Z)
-;;   RIGHT  top:    the selected note in the middle of its connections
-;;                  (left = links to it, right = links from it,
-;;                   top/bottom = mentioned together in your journal)
-;;          bottom: the note itself, with "linked from" and journal mentions
-;;
 ;;; Code:
 
 (require 'cl-lib)
