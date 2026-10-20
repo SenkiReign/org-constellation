@@ -52,6 +52,8 @@ Links understood: `[[Title]]`, `[[*Heading]]`, `[[file:x.org]]`, `[[id:UUID]]` a
 
 `constellation-sources`, `constellation-node-kind`, `constellation-heading-level`, `constellation-journal-file-regexp`, `constellation-exclude-regexp`, `constellation-height-margin` (set to 2 if the key bar is cut off).
 
+Built with Claude
+
 ## License
 
 GPL-3.0-or-later
